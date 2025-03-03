@@ -72,3 +72,20 @@ function fullBodyColorChange(){
     
      });
   }
+
+  
+//
+//  comment text  section
+const addtexts = document.getElementById('completed-A').addEventListener('click' , function(){
+    const a = document.getElementById("A")
+            
+  }) 
+
+
+ 
+
+
+// clear history  deleted
+document.getElementById('History-clear').addEventListener('click' , function(){
+ document.getElementById('hidden-display').style.display = 'none'
+})
